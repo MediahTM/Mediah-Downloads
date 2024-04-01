@@ -1,0 +1,13 @@
+{
+    "name": "What's the Difference",
+    "artist": "Dr. Dre",
+    "year": "1999",
+    "size": 1500000000,
+    "overview": "A track on the 2001 album by Dr. Dre",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/5/56/DrDre-2001.jpg",
+    "uploadedBy": "alycdev",
+    "uploadedAt": "2024-04-01 16:21:58.621997+00:00",
+    "parts": [
+        "https://example.com/link?=1"
+    ]
+}
