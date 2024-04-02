@@ -1,10 +1,9 @@
 {
     "type": "album",
-    "artist": "Dr dre",
-    "name": "2001",
     "size": 5000000000,
     "uploadedBy": "alycdev",
     "uploadedAt": "2024-04-01 16:21:58.621997+00:00",
+    "genius": "https://genius.com/api/page_data/album?page_path=/albums/Dr-dre/2001",
     "tracks": [
         "whats-the-difference-(dr-dre).json"
     ]
