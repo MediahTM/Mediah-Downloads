@@ -6,7 +6,7 @@
     "genius": "https://genius.com/api/page_data/album?page_path=/albums/Dr-dre/2001",
     "tracks": [
         {
-            "trackId": 7,
+            "id": 7,
             "location": "whats-the-difference-(dr-dre).json"
         }
     ]
