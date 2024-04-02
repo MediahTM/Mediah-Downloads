@@ -1,14 +1,7 @@
 {
-    "type": "track",
-    "name": "What's the Difference",
-    "artist": "Dr. Dre",
-    "year": "1999",
+    "type": "album-track",
     "size": 1500000000,
-    "playtime": "00:04:04",
-    "overview": "A track on the 2001 album by Dr. Dre",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/5/56/DrDre-2001.jpg",
-    "uploadedBy": "alycdev",
-    "uploadedAt": "2024-04-01 16:21:58.621997+00:00",
+    "genius": "https://genius.com/api/songs/324"
     "parts": [
         "https://example.com/link?=1"
     ]
