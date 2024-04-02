@@ -1,0 +1,13 @@
+{
+    "type": "album",
+    "size": 5000000000,
+    "uploadedBy": "alycdev",
+    "uploadedAt": "2024-04-01 16:21:58.621997+00:00",
+    "genius": "https://genius.com/api/page_data/album?page_path=/albums/Tame-impala/The-slow-rush",
+    "tracks": [
+        {
+            "id": 1,
+            "location": "one-more-year-(tame-impala).json"
+        }
+    ]
+}
